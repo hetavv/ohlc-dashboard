@@ -1,0 +1,9 @@
+streamlit
+pandas
+json 
+finplot 
+numpy 
+matplotlib.pyplot
+plotly.graph_objects 
+plotly.express 
+requests
