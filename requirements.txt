@@ -2,7 +2,6 @@ streamlit
 pandas
 finplot 
 numpy 
-matplotlib.pyplot
-plotly.graph_objects 
-plotly.express 
+matplotlib
+plotly 
 requests
