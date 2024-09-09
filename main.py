@@ -126,7 +126,6 @@ elif(graph_modalities[graph_chosen]==4):
 
 
 symbol = company_name.lower()
-token = 'pk_96ebc0396c4b45eab8cf82c31ff1bfea'
 url = f'https://cloud.iexapis.com/stable/stock/{symbol}/quote?token={token}'
 r = requests.get(url=url)
 info = r.json()
